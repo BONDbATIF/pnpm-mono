@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build shared-ui",
+    "startTime": "2023-12-06T21:16:46.203Z",
+    "endTime": "2023-12-06T21:16:47.156Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "shared-ui:build",
+      "target": "build",
+      "projectName": "shared-ui",
+      "hash": "7948436454562834038",
+      "startTime": "2023-12-06T21:16:46.205Z",
+      "endTime": "2023-12-06T21:16:47.156Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

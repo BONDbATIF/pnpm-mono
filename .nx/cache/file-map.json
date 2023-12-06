@@ -1,0 +1,397 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.3",
+  "deps": {
+    "nx": "^17.1.3"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "11612638887042922903"
+      },
+      {
+        "file": ".nx/cache/d/daemon.log",
+        "hash": "15219094942196398790"
+      },
+      {
+        "file": ".nx/cache/d/server-process.json",
+        "hash": "11642597444448404986"
+      },
+      {
+        "file": ".nx/cache/file-map.json",
+        "hash": "2426863845093283199"
+      },
+      {
+        "file": ".nx/cache/lockfile.hash",
+        "hash": "5962309231504116904"
+      },
+      {
+        "file": ".nx/cache/parsed-lock-file.json",
+        "hash": "18224750269706876646"
+      },
+      {
+        "file": ".nx/cache/project-graph.json",
+        "hash": "14436654548249237028"
+      },
+      {
+        "file": ".nx/cache/run.json",
+        "hash": "591000229232523047"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/14285325677657969339",
+        "hash": "11564136475612545044"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/7948436454562834038",
+        "hash": "11564136475612545044"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/47/14/be4d4cf4775bb4e6a050f7349e893e839819a9e51e52a85e17bd000f492bba53fa20ca9d5d15bedae3e3b8a41466659ccf7e3563472e82ad35d93d17583b",
+        "hash": "15589021235023139759"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/49/42/2954ede8ae87d644606704c604064bef0c60ad2bd4bc7174ae713d5fb110b8c3806cb66be2b0567f5fe56bfb171275ad04614415f7af24f9c16cd1538e06",
+        "hash": "1990021422085469239"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/78/c0/3dab688051b5b881243757ae1b02a079eac93105b44d32efbc19712b1dd9cb5ffa4aa690f30fd278ae7528cf506ef6e4eb78311da4a803ce3309610c536a",
+        "hash": "8217179606759566447"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/7b/b5/58b25770f2645308f06f74d2b3c23567684bd0336f3ee9c229c7e050e6a9f99c515fe284ac309e7deb672ba59f86c251db923b4c4763f51f2f0f7c1ce0a5",
+        "hash": "2352759588852533325"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/85/4c/910f21cc4817b2ac2d7f6ba11ebc883e15ccb6ac174d98064f589140e8296e0b9b758fb7c502dc870a1cddacf074a74f69dea0f3b0218298a046c4b7ee0f",
+        "hash": "7254206522412524700"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/85/a5/633e40d23c977c50e8ad6d0ed464d2602e5794749b4ec5e5f44e58329e0ae4b711051eaaf3b85604c3b9cc106fd1d2981ea2c0e1b73d3beedf74cff59759",
+        "hash": "14083458367479155150"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/89/fb/744d8cc0739bc1f1cd3edd7c7685f3033d93cc3a74f7abc6d89d19210856cd2fd48aeda1fd1cfbd8e04c5a0464bffaa28ed5fd386131989de7c256a28bbe",
+        "hash": "16343177574981244556"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/9a/42/3ab1162e8273571e2e0f8cfc1eeda9bb26a0a198f4763b3016c6941ac50365c40ea847f5cfa98ac7c36ca019c1a714d72b9730ec420fa4abc350c50b45a4",
+        "hash": "3078058137967373405"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/9f/c2/a460f058126bcda18faffe5f2a0e449273be04b9d2706091aec057a0ac564f87a26f604b0a4d646cf9e5f169d5ccd8826d6b3ec8706b8cbe77683e6254de",
+        "hash": "1702095773003508258"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/b0/cd/55310550b68932c31b6f70d55e2fba3f2af0069a713ef5360ced7d111b497e45619d2b7ef83dcb5a0752d53b2531022b338730bdcf9901a191293ed9a3f1",
+        "hash": "2708966220543044650"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/b8/e0/32214bf3ede5076ce4b78e64ba975da587c3c47ec1aa863c1acbedd63e171669ba85895470d3841dc72beedb804b8d896cc21e95b35b6f9f018ac79882d9",
+        "hash": "11085120193704720798"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/cf/f2/37d8af1488b45567c9982ef4de9d369a71a77383236acf14c890e03f7b27153ea4f623cf0234df82984b0d1e5b295ea595bc737dabab54c3e2f3ee15228b",
+        "hash": "11732784736262380599"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/ed/94/d75da6e776e2df28d4ed85f384b736e445dea1a5162e7a1e08a3b81a05922b04563abc897b244b0633116f4c4f9c1b2c53e44d0102c93a4c168956e533cc",
+        "hash": "18096719078107171200"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/content-v2/sha512/f3/f8/d362647f483070a857075028a3d577b6e5d353378a2691352691979745dc589fd0437a909f7f5c37d519c27937c7702fee435a57b3f2f450c62bbf4d519c",
+        "hash": "12820985115007082028"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/index-v5/43/7e/a2725cd00407f4865ff7f6ef65127bf5ad705d28d98dbf16dbafc109bf5f",
+        "hash": "694043834384114908"
+      },
+      {
+        "file": "apps/my-remix-app/.cache/index-v5/d0/c4/d960260ece228d28f70e317741b3f3f3df05c53956d870235837ae2b73b4",
+        "hash": "8980120438327656902"
+      },
+      {
+        "file": "apps/my-remix-app/.eslintrc.cjs",
+        "hash": "10709730964724829841"
+      },
+      {
+        "file": "apps/my-remix-app/README.md",
+        "hash": "17738395239810662117"
+      },
+      {
+        "file": "apps/my-remix-app/app/entry.client.tsx",
+        "hash": "5186934067478039483"
+      },
+      {
+        "file": "apps/my-remix-app/app/entry.server.tsx",
+        "hash": "12732315645727095154"
+      },
+      {
+        "file": "apps/my-remix-app/app/root.tsx",
+        "hash": "8977558441183490238"
+      },
+      {
+        "file": "apps/my-remix-app/app/routes/_index.tsx",
+        "hash": "1439292089051082068"
+      },
+      {
+        "file": "apps/my-remix-app/build/index.js",
+        "hash": "5688333867388998078"
+      },
+      {
+        "file": "apps/my-remix-app/build/index.js.map",
+        "hash": "9149494599213964175"
+      },
+      {
+        "file": "apps/my-remix-app/build/metafile.css.json",
+        "hash": "1456377232359664319"
+      },
+      {
+        "file": "apps/my-remix-app/build/metafile.js.json",
+        "hash": "11090373938815341984"
+      },
+      {
+        "file": "apps/my-remix-app/build/metafile.server.json",
+        "hash": "15827908115156334962"
+      },
+      {
+        "file": "apps/my-remix-app/build/version.txt",
+        "hash": "16097024620464038113"
+      },
+      {
+        "file": "apps/my-remix-app/package.json",
+        "hash": "14501779335807112495"
+      },
+      {
+        "file": "apps/my-remix-app/pnpm-lock.yaml",
+        "hash": "12806187245432612643"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/__remix_entry_dev-7A4BTXJ7.js",
+        "hash": "17671804841190522090"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/__remix_entry_dev-7A4BTXJ7.js.map",
+        "hash": "11162221499064300320"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-BA6NHEY4.js",
+        "hash": "16929405423970966195"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-BA6NHEY4.js.map",
+        "hash": "2877754477100184706"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-H5ZE7JVG.js",
+        "hash": "11543872738772625220"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-H5ZE7JVG.js.map",
+        "hash": "14904711008681304602"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-K47POTVI.js",
+        "hash": "8976718890847090898"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-K47POTVI.js.map",
+        "hash": "11141556804974690505"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-K6PKGSTD.js",
+        "hash": "2491368822096055440"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-K6PKGSTD.js.map",
+        "hash": "9904637345642159976"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-NRH5LTJ7.js",
+        "hash": "3712819297516644608"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-NRH5LTJ7.js.map",
+        "hash": "356590450429601851"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-O4OKU2LD.js",
+        "hash": "10831508924700724854"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-O4OKU2LD.js.map",
+        "hash": "9390317316620669678"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-PNG5AS42.js",
+        "hash": "13136352525447046856"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-PNG5AS42.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-UJ5ALMPM.js",
+        "hash": "6045463567056915481"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/chunk-UJ5ALMPM.js.map",
+        "hash": "7952842815864742287"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/client-ILSEVI3S.js",
+        "hash": "4351486562305577065"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/client-ILSEVI3S.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/esm-F7S3K3EG.js",
+        "hash": "9206870422214076563"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/esm-F7S3K3EG.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/jsx-dev-runtime-VZSIHBRO.js",
+        "hash": "12564112581081082232"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/jsx-dev-runtime-VZSIHBRO.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/jsx-runtime-UIJ2I6YU.js",
+        "hash": "12186359732875618386"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/jsx-runtime-UIJ2I6YU.js.map",
+        "hash": "10542290899048817656"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/react-KINKPTZX.js",
+        "hash": "18137430731229467015"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/react-KINKPTZX.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/react-dom-FDOIOBMT.js",
+        "hash": "11267288070408064748"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/react-dom-FDOIOBMT.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/remix_hmr-6KZSWBQX.js",
+        "hash": "14650084021793026341"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/remix_hmr-6KZSWBQX.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/runtime-ZFKNW5BR.js",
+        "hash": "3292864616636883645"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/_shared/runtime-ZFKNW5BR.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/entry.client-TIZRODVH.js",
+        "hash": "7151329250475762619"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/entry.client-TIZRODVH.js.map",
+        "hash": "13347234591808218923"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/manifest-865A599C.js",
+        "hash": "7991398016251042576"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/root-4PWN64X3.js",
+        "hash": "17153818448007384635"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/root-4PWN64X3.js.map",
+        "hash": "4832412440262860120"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/routes/_index-N3KCNPVM.js",
+        "hash": "11264461539846901024"
+      },
+      {
+        "file": "apps/my-remix-app/public/build/routes/_index-N3KCNPVM.js.map",
+        "hash": "3172450549929912087"
+      },
+      {
+        "file": "apps/my-remix-app/public/favicon.ico",
+        "hash": "3730367829618743876"
+      },
+      {
+        "file": "apps/my-remix-app/remix.config.js",
+        "hash": "632887045975142008"
+      },
+      {
+        "file": "apps/my-remix-app/remix.env.d.ts",
+        "hash": "3987561439116594852"
+      },
+      {
+        "file": "apps/my-remix-app/tsconfig.json",
+        "hash": "13746678058135261086"
+      },
+      {
+        "file": "nx.json",
+        "hash": "13712050245278389172"
+      },
+      {
+        "file": "package.json",
+        "hash": "16710204742242758602"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "6527350061073304536"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "9731554387313426352"
+      }
+    ],
+    "projectFileMap": {
+      "shared-ui": [
+        {
+          "file": "packages/shared-ui/Button.tsx",
+          "hash": "16093614123712865176"
+        },
+        {
+          "file": "packages/shared-ui/index.tsx",
+          "hash": "8665336225023395340"
+        },
+        {
+          "file": "packages/shared-ui/package.json",
+          "hash": "8254781020025876617",
+          "deps": [
+            "npm:react",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "packages/shared-ui/pnpm-lock.yaml",
+          "hash": "5074041117029398162"
+        },
+        {
+          "file": "packages/shared-ui/tsconfig.json",
+          "hash": "9887788482427015859"
+        }
+      ]
+    }
+  }
+}

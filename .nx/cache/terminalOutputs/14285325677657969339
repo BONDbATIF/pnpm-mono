@@ -1,0 +1,4 @@
+
+> shared-ui@1.0.0 build /Users/gotambhrati/Documents/pnpm-mono/packages/shared-ui
+> rm -rf dist && tsc
+
